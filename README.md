@@ -1,6 +1,7 @@
 
 # What I Learned Building the Same Dashboard Twice: A Coffee Sales Analytics Project
 
+<img width="582" height="390" alt="Screenshot 2026-01-30 at 17 17 19" src="https://github.com/user-attachments/assets/0441abc7-0e92-469d-bb8b-f476a83332cf" />
 
 
 ## Project Overview
